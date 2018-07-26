@@ -1,0 +1,106 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+#intro {
+    height: 500px;
+}
+
+#intro {
+    background: url("../images/about-img1.jpg")
+    center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#main-gallery {
+  height: 430px;
+}
+
+#main-gallery {
+  background: url("../images/rayvill-img3.jpg")
+  center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h2 {
+  color: white;
+} 
+
+.p1 {
+  font-size: 14px;
+}
+
+.card {
+  margin-left: 25px;
+}
+
+#card1 {
+  margin-left: 25px;
+}
+
+.card-heading {
+  color: rgb(237, 174, 80);
+}
+
+.card-text {
+  font-size: 14px;
+}
+
+.ol1 {
+  margin-left: 40px;
+  font-size: 14px;
+}
+
+.ul2 {
+  margin-left: 40px;
+}
+#topnav {
+  background-color: white;
+   box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+
+.nav-link { 
+  color: rgba(0,0,0,.9);
+}
+
+.navbar-brand {
+  margin-left: -30px;
+}
+
+
+#center-only {
+  text-align: center;
+}
+
+#img1 {
+  margin: 0;
+}
+
+
+/*footer css*/
+
+footer {
+  background-color: #e8eaed;
+  clear: both;
+  width: auto;
+  height: auto;
+}
+
+h6{
+  color: #edae50;
+}
+
+a {
+  color: black;
+}
+
