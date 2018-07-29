@@ -11,12 +11,13 @@
 }
 
 #intro {
-    background: url("../images/about-img1.jpg")
+    background: url("../images/rayvill-logo-big.jpg")
     center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: 700px, 700px;
+    margin-top: 50px;
 }
 
 #main-gallery {
@@ -84,6 +85,10 @@ h2 {
 
 #img1 {
   margin: 0;
+}
+
+#tp {
+  font-family: 'Roboto', sans-serif;
 }
 
 

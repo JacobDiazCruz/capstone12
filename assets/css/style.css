@@ -107,7 +107,7 @@ footer {
   width: auto;
   height: auto;
 }
-
+  
 h6{
   color: #edae50;
 }
@@ -115,3 +115,12 @@ h6{
 a {
   color: black;
 }
+
+#tp {
+  font-family: 'Roboto', sans-serif;
+}
+
+#card-heading {
+  font-family: 'Roboto', sans-serif;
+}
+
